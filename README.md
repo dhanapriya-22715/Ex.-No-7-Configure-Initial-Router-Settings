@@ -1,4 +1,4 @@
-## Ex. No: 7 – Configure Initial Router Settings
+# Ex. No: 7 – Configure Initial Router Settings
 # Date: 24/11/2006
 
 # Objective
